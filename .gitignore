@@ -1,0 +1,22 @@
+# .gitignore
+# Ignore virtual environment directories
+venv/
+.venv/
+
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# IDE configurations (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
+
+# macOS Finder folder settings
+.DS_Store
+
+# Windows file system settings
+Thumbs.db
+
+# Environment variable files
+.env
